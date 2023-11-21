@@ -1,0 +1,5 @@
+requests 
+pygithub 
+telegram
+python-telegram-bot==13.12 
+pystardict==0.8
